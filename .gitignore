@@ -1,3 +1,7 @@
-/.idea
+/.idea/compiler.xml
+/.idea/copyright
+/.idea/libraries
+/.idea/vcs.xml
+/.idea/workspace.xml
 /out
 test.iml
