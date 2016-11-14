@@ -5,6 +5,9 @@ package calcTax;
  */
 public class TestTax {
     private int foo = 123123;
+    private int foo2 = 123123;
+    private int foo34 = 123123;
+    private int foo3 = 123123;
 
     public static void main(String[] args){
 
