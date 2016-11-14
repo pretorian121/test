@@ -4,6 +4,7 @@ package calcTax;
  * Created by Pretorian on 11/6/2016.
  */
 public class TestTax {
+    private int foo = 123123;
 
     public static void main(String[] args){
 
